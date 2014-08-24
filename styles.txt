@@ -1,0 +1,2 @@
+#topthanks .avatar{width: 32px; height: 32px; float: left;}
+#topthanks .box{float: left; margin-left: 7px;}
